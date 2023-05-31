@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-dyson-pure-cool-credentials-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mqtt": "^4.3.7",
+    "request": "^2.88.2"
+  }
+}
